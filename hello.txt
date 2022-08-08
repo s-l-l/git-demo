@@ -11,6 +11,7 @@ hello word!
 hello word!
 hello word!
 master update noew
+merge chogntu!
 hello word!
 hot-fix-Update
 hello word!
